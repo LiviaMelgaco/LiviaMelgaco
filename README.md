@@ -6,7 +6,7 @@
 💜 **Co-organizadora** do [R-Ladies Vitória](https://github.com/R-Ladies-Vitoria)  
 📊 **Membra da Comissão Organizadora** da [69ª Reunião Anual da RBras & 21º SEAGRO](https://69rbras21seagro.com.br/)  
 👩🏾‍💻 **Integrante** do [DasLab](https://daslab-ufes.github.io/)  
-🔬 Apaixonada por **Bioestatística** e **Biotecnologia**
+🔬 Atualmente focada em **Séries Temporais** 
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
